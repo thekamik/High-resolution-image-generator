@@ -1,7 +1,5 @@
 # High-resolution-image-generator
 An example of using the OpenAI API in python to generate images in high resolution
-# email-automation-with-gpt-ai-and-python
-An example of using the OpenAI API in python to automate email responses
 
 1. This script was created to automatically generate images using OpenAI API. <br />
    First, we generate the image in the highest possible resolution. <br />
